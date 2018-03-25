@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="lmser_model" />
+          <option value="cifar10" />
         </list>
       </option>
     </inspection_tool>

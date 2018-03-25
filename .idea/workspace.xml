@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13cd9793-cc8c-4d1a-b133-315070a98105" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/lmser_cifar/cnn_cifar10/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/lmser_cifar/cnn_cifar10/cifar10_multi_gpu_train.py" afterPath="$PROJECT_DIR$/lmser_cifar/cnn_cifar10/cifar10_multi_gpu_train.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,8 +13,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -23,7 +24,37 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="cifar10_multi_gpu_train.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lmser_cifar/cnn_cifar10/cifar10_multi_gpu_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3735">
+              <caret line="249" column="40" lean-forward="true" selection-start-line="249" selection-start-column="40" selection-end-line="249" selection-end-column="40" />
+              <folding>
+                <element signature="e#1542#1580#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cifar10_train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lmser_cifar/cnn_cifar10/cifar10_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-298">
+              <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tf.histogram_summary</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>tf.summary.histogram</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +84,7 @@
         <option value="$PROJECT_DIR$/lmser_mnist/origin_lmser.py" />
         <option value="$PROJECT_DIR$/lmser_mnist/test_lmser.py" />
         <option value="$PROJECT_DIR$/lmser_mnist/train_lmser.py" />
+        <option value="$PROJECT_DIR$/lmser_cifar/cnn_cifar10/cifar10_multi_gpu_train.py" />
       </list>
     </option>
   </component>
@@ -76,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,14 +124,14 @@
             <path>
               <item name="graduation" type="b2602c69:ProjectViewProjectNode" />
               <item name="graduation" type="462c0819:PsiDirectoryNode" />
-              <item name="lmser_mnist" type="462c0819:PsiDirectoryNode" />
+              <item name="lmser_cifar" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn_cifar10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,8 +222,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -217,48 +251,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/compat.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1075">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/lmser_cnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1660">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3175">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1509">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="57" column="23" lean-forward="false" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/compat.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/lmser_cnn.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_input.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train.py" />
     <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/utils.py" />
     <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_restore2.py" />
     <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_restore.py" />
@@ -275,42 +281,12 @@
     <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/visualize.py" />
     <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/AutoEncoder.py" />
     <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmsercnn_inference.py" />
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/restore_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-535">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/run_fc_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1330">
-          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/restore_model.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/run_fc_model.py" />
     <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/lmser.py" />
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser2_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-713">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1585">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser2_inference.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser_inference.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser2.py" />
     <entry file="file://$PROJECT_DIR$/lmser_mnist/save_restore/deep_restore.py" />
     <entry file="file://$PROJECT_DIR$/lmser_mnist/deep_biminist.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -354,20 +330,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-700">
-          <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1684">
-          <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser.py" />
     <entry file="file://$PROJECT_DIR$/lmser_mnist/test_lmser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -389,19 +353,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lmser_cifar/cnn_cifar10/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_cifar/cnn_cifar10/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_cifar/cnn_cifar10/cifar10_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_cifar/cnn_cifar10/cifar10_multi_gpu_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3735">
+          <caret line="249" column="40" lean-forward="true" selection-start-line="249" selection-start-column="40" selection-end-line="249" selection-end-column="40" />
+          <folding>
+            <element signature="e#1542#1580#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
