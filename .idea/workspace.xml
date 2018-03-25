@@ -2,135 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13cd9793-cc8c-4d1a-b133-315070a98105" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lmser/lmser_cifar10/tf_logs/20180325-154718/events.out.tfevents.1521964043.WenjingdeMacBook-Pro.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lmser/lmser_cifar10/tf_logs/20180325-154907/events.out.tfevents.1521964151.WenjingdeMacBook-Pro.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lmser/lmser_cifar10/tf_logs/20180325-155012/events.out.tfevents.1521964216.WenjingdeMacBook-Pro.local" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lmser/lmser_cifar10/tf_logs/20180325-155029/events.out.tfevents.1521964233.WenjingdeMacBook-Pro.local" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/batches.meta" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/batches.meta" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_2" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_2" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_3" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_3" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_4" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_4" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_5" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_5" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/test_batch" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/test_batch" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train/events.out.tfevents.1521011988.WenjingdeMacBook-Pro.local" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train/model.ckpt-0.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train/model.ckpt-0.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train/model.ckpt-0.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train.py" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train.py" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train/events.out.tfevents.1520662073.WenjingdeMacBook-Pro.local" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train/model.ckpt-0.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train/model.ckpt-0.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_train/model.ckpt-0.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar_lmser.py" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train.py" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_cifar10/lmser.py" afterPath="$PROJECT_DIR$/lmser/lmser_cifar10/lmser.py" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_cifar10/lmser2.py" afterPath="$PROJECT_DIR$/lmser/lmser_cifar10/lmser2.py" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_cifar10/lmsercnn_inference.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_cifar10/run_fc_model.py" afterPath="$PROJECT_DIR$/lmser/lmser_cifar10/run_fc_model.py" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/.idea/lmser_mnist.iml" afterPath="$PROJECT_DIR$/.idea/graduation.iml" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/AutoEncoder.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/MNIST_data/t10k-images-idx3-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/MNIST_data/t10k-labels-idx1-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/MNIST_data/train-images-idx3-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/MNIST_data/train-labels-idx1-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/__init__.py" afterPath="$PROJECT_DIR$/lmser/cnn_cifar10/cifar-10-batches-py/data_batch_1" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/biminist.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/compare.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/autoloss.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/autoloss_20000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/autoloss_5000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/biministloss.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/biministloss_20000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/lmseraccu1_200000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/lmseraccu1_5000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/lmseraccu1_testsigmoid.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/lmseraccu2_200000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/lmserloss.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/lmserloss1_200000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/lmserloss1_5000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/data/lmserloss2_200000.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/lmser_GAN.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/mylmser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/AutoEncoder.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/MNIST_data/t10k-images-idx3-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/MNIST_data/t10k-labels-idx1-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/MNIST_data/train-images-idx3-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/MNIST_data/train-labels-idx1-ubyte.gz" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/autoencoder/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/autoencoder/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/autoencoder/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/autoencoder/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/autoencoder/train_loss.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist/train_accu.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist/train_loss.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/biminist_2layers.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/biminist_2layers.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/biminist_2layers.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/train_accu.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/train_accu2layers.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/train_loss.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist_unsurpervised/train_loss2layers.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_hehe.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_lmser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_restore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_restore2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_thin/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_thin/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_thin/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_thin/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/lmser_model.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/lmser_test.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/lmserbest_test_accu.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/lmserbest_test_loss.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_3_256/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_3_256/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_3_256/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_3_256/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_3_320/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_3_320/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_3_320/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_3_320/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_best_320/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_best_320/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_best_320/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_best_320/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_unsupervised_320/checkpoint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_unsupervised_320/model.ckpt.data-00000-of-00001" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_unsupervised_320/model.ckpt.index" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/model_unsupervised_320/model.ckpt.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/restore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/retore2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/train_accu3.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/train_accu3_128.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/train_accu3_256.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/train_loss3.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/train_loss3_128.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/train_loss3_256.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/trainbest_accu.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/save_restore/trainbest_loss.npy" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/tf_lmser" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/lmser/lmser_mnist/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -162,6 +34,14 @@
         <option value="$PROJECT_DIR$/lmser/lmser_mnist/lmser.py" />
         <option value="$PROJECT_DIR$/lmser/lmser_cifar10/lmser2.py" />
         <option value="$PROJECT_DIR$/lmser/lmser_cifar10/lmser.py" />
+        <option value="$PROJECT_DIR$/lmser_mnist/save_restore/lmser_test.py" />
+        <option value="$PROJECT_DIR$/lmser_mnist/deep_lmser.py" />
+        <option value="$PROJECT_DIR$/lmser_mnist/deep_biminist.py" />
+        <option value="$PROJECT_DIR$/lmser_mnist/AutoEncoder.py" />
+        <option value="$PROJECT_DIR$/lmser_mnist/biminist.py" />
+        <option value="$PROJECT_DIR$/lmser_mnist/origin_lmser.py" />
+        <option value="$PROJECT_DIR$/lmser_mnist/test_lmser.py" />
+        <option value="$PROJECT_DIR$/lmser_mnist/train_lmser.py" />
       </list>
     </option>
   </component>
@@ -185,6 +65,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,22 +73,10 @@
               <item name="graduation" type="b2602c69:ProjectViewProjectNode" />
               <item name="graduation" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="graduation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation" type="462c0819:PsiDirectoryNode" />
-              <item name="lmser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graduation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graduation" type="462c0819:PsiDirectoryNode" />
-              <item name="lmser" type="462c0819:PsiDirectoryNode" />
-              <item name="lmser_cifar10" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -217,6 +86,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lmser_mnist" />
       <recent name="$PROJECT_DIR$/lmser/lmser_mnist" />
     </key>
   </component>
@@ -232,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.train_lmser">
     <configuration name="lmser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,9 +121,32 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="train_lmser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lmser_mnist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="graduation" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lmser_mnist/train_lmser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.lmser" />
+      <item index="1" class="java.lang.String" itemvalue="Python.train_lmser" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.lmser" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.train_lmser" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lmser" />
       </list>
     </recent_temporary>
   </component>
@@ -276,22 +169,22 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -307,17 +200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1075">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
-          <folding>
-            <element signature="e#1325#1363#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -325,9 +207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding>
-            <element signature="e#1246#1284#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -335,7 +214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1660">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -343,7 +221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3175">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -351,7 +228,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1509">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -359,153 +235,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="57" column="23" lean-forward="false" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-          <folding>
-            <element signature="e#1313#1351#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_restore2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-783">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_restore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_hehe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-426">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/utils.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_restore2.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_restore.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/deep_hehe.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/save_restore/biminist.py" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/lmser_GAN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-502">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/lmser_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/mylmser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/origin_lmser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/test_lmser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/biminist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="94" column="39" lean-forward="true" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/deep_lmser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/visualize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/AutoEncoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmsercnn_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/compare.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/lmser_GAN.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/lmser_model.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/mylmser.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/origin_lmser.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/test_lmser.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/biminist.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/deep_lmser.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/visualize.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/AutoEncoder.py" />
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmsercnn_inference.py" />
     <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/restore_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-535">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,23 +272,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1330">
           <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/lmser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_mnist/lmser.py" />
     <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser2_inference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-713">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,15 +287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1585">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,6 +294,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/save_restore/deep_restore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1045">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/deep_biminist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/lmser_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1060">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/AutoEncoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/origin_lmser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="80" column="15" lean-forward="false" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/train_lmser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="87" column="20" lean-forward="false" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/cnn_cifar10/cifar10_lmser_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser/lmser_cifar10/lmser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1684">
+          <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/test_lmser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/deep_lmser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmser_mnist/biminist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
         </state>
       </provider>
