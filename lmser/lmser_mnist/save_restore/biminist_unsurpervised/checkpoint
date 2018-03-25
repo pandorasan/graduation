@@ -1,2 +1,0 @@
-model_checkpoint_path: "biminist_2layers.ckpt"
-all_model_checkpoint_paths: "biminist_2layers.ckpt"

@@ -16,8 +16,8 @@
 """A binary to train CIFAR-10 using a single GPU.
 
 Accuracy:
-cifar10_train.py achieves ~86% accuracy after 100K steps (256 epochs of
-data) as judged by cifar10_eval.py.
+cifar10_lmser_train.py achieves ~86% accuracy after 100K steps (256 epochs of
+data) as judged by cifar10_lmser_eval.py.
 
 Speed: With batch_size 128.
 
@@ -47,15 +47,15 @@ import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 
-#from tensorflow.models.image.cifar10 import cifar10
-import cifar10
+#from tensorflow.models.image.cifar10_lmser import cifar10_lmser
+import cifar10_lmser
 
 FLAGS = tf.app.flags.FLAGS
 
-tf.app.flags.DEFINE_string('train_dir', 'cifar10_train/',
+tf.app.flags.DEFINE_string('train_dir', 'cifar10_lmser_train/',
                            """Directory where to write event logs """
                            """and checkpoint.""")
-tf.app.flags.DEFINE_integer('max_steps', 10,
+tf.app.flags.DEFINE_integer('max_steps', 20,
                             """Number of batches to run.""")
 tf.app.flags.DEFINE_boolean('log_device_placement', False,
                             """Whether to log device placement.""")
@@ -67,18 +67,18 @@ def train():
     global_step = tf.Variable(0, trainable=False)
 
     # Get images and labels for CIFAR-10.
-    images, labels = cifar10.distorted_inputs()
+    images, labels = cifar10_lmser.distorted_inputs()
 
     # Build a Graph that computes the logits predictions from the
     # inference model.
-    logits = cifar10.inference(images)
+    logits = cifar10_lmser.inference(images)
 
     # Calculate loss.
-    loss = cifar10.loss(logits, labels)
+    loss = cifar10_lmser.loss(logits, labels)
 
     # Build a Graph that trains the model with one batch of examples and
     # updates the model parameters.
-    train_op = cifar10.train(loss, global_step)
+    train_op = cifar10_lmser.train(loss, global_step)
 
     # Create a saver.
     saver = tf.train.Saver(tf.all_variables())
@@ -128,7 +128,7 @@ def train():
 
 
 def main(argv=None):  # pylint: disable=unused-argument
-  cifar10.maybe_download_and_extract()
+  cifar10_lmser.maybe_download_and_extract()
   if gfile.Exists(FLAGS.train_dir):
     gfile.DeleteRecursively(FLAGS.train_dir)
   gfile.MakeDirs(FLAGS.train_dir)

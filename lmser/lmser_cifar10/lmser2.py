@@ -17,7 +17,7 @@ import math
 flags = tf.flags
 FLAGS = flags.FLAGS
 flags.DEFINE_float('learning_rate', 0.001, 'Learning rate for the training.')
-flags.DEFINE_integer('max_steps', 2000, 'Number of steps to run trainer.')
+flags.DEFINE_integer('max_steps', 20, 'Number of steps to run trainer.')
 flags.DEFINE_integer('hidden1', 300, 'Number of units in hidden layer 1.')
 flags.DEFINE_integer('hidden2', 100, 'Number of units in hidden layer 2.')
 flags.DEFINE_integer('batch_size', 400,

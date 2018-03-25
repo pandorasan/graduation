@@ -17,7 +17,7 @@ import math
 flags = tf.flags
 FLAGS = flags.FLAGS
 flags.DEFINE_float('learning_rate', 0.001, 'Learning rate for the training.')
-flags.DEFINE_integer('max_steps', 2000, 'Number of steps to run trainer.')
+flags.DEFINE_integer('max_steps', 20, 'Number of steps to run trainer.')
 flags.DEFINE_integer('hidden1', 120, 'Number of units in hidden layer 1.')
 flags.DEFINE_integer('hidden2', 60, 'Number of units in hidden layer 2.')
 flags.DEFINE_integer('hidden3', 30, 'Number of units in hidden layer 3.')
@@ -140,7 +140,7 @@ with tf.Session() as sess:
   # After finishing the training, evaluate on the test set
   test_accuracy = sess.run(accuracy, feed_dict={
     x_data: data_sets['images_test'],
-    y_data: data_sets['labels_test']})
+    yy_data: data_sets['labels_test']})
   print('Test accuracy {:g}'.format(test_accuracy))
 
 endTime = time.time()
