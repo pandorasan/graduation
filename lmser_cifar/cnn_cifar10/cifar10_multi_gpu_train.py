@@ -216,13 +216,13 @@ def train():
     for var in tf.trainable_variables():
       summaries.append(tf.summary.histogram(var.op.name, var))
 
+
     # Track the moving averages of all trainable variables.
-    with tf.variable_scope(tf.get_variable_scope()):
-      for i in xrange(FLAGS.num_gpus):
-        with tf.device('/gpu:%d' % i):
-          variable_averages = tf.train.ExponentialMovingAverage(
-              cifar10.MOVING_AVERAGE_DECAY, global_step)
-          variables_averages_op = variable_averages.apply(tf.trainable_variables())
+    variable_averages = tf.train.ExponentialMovingAverage(
+        cifar10.MOVING_AVERAGE_DECAY, global_step)
+    variables_averages_op = variable_averages.apply(tf.trainable_variables())
+    scope.reuse_variables()
+
 
     # Group all updates to into a single train op.
     train_op = tf.group(apply_gradient_op, variables_averages_op)
